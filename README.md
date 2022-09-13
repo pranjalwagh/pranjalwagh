@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalwagh&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalwagh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ll_wgah_ll" target="blank"><img src="https://img.shields.io/twitter/follow/ll_wgah_ll?logo=twitter&style=for-the-badge" alt="ll_wgah_ll" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ll_wagh_ll" target="blank"><img src="https://img.shields.io/twitter/follow/ll_wgah_ll?logo=twitter&style=for-the-badge" alt="ll_wagh_ll" /></a> </p>
 
 - 🌱 I’m currently learning **UI/UX**
 
