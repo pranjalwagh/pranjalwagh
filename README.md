@@ -16,14 +16,7 @@
 - 📄 Know about my experiences [CLick Here](https://drive.google.com/file/d/1cXkA3GivDTYN7SBU4eeOctkqft5uiVlU/view?usp=sharing)
 
 - ⚡ Fun fact **For engineers every course apart from engineering is easy**
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ll_wagh_ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ll_wgah_ll" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pranjal-wagh-3b4916220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranjal-wagh-3b4916220/" height="30" width="40" /></a>
-</p>
+- 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -33,5 +26,10 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## By the way here are some of my statistics 🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ll_wagh_ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ll_wgah_ll" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranjal-wagh-3b4916220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranjal-wagh-3b4916220/" height="30" width="40" /></a>
+</p>
