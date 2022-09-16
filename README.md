@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pranjalwagh612001@gmail.com**
 
-- 📄 Know about my experiences [CLick Here](https://drive.google.com/file/d/1cXkA3GivDTYN7SBU4eeOctkqft5uiVlU/view?usp=sharing)
+- 📄 Know about my experiences [CLick Here](https://drive.google.com/file/d/1IcxNM9oFOgrn2vjtoKpLYJ1PdGDWmGcN/view?usp=sharing)
 
 - ⚡ Fun fact **For engineers every course apart from engineering is easy**
 
