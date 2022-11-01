@@ -33,7 +33,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
-<p align"center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalwagh&show_icons=true&locale=en&layout=compact" alt="pranjalwagh" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalwagh&show_icons=true&locale=en&layout=compact" alt="pranjalwagh" /></p>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalwagh&show_icons=true&locale=en" alt="pranjalwagh" /></p>
 <br>
