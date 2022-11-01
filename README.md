@@ -32,12 +32,14 @@
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalwagh&show_icons=true&locale=en&layout=compact" alt="utkarsh7588" /></p>
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalwagh&show_icons=true&locale=en" alt="utkarsh7588" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalwagh&show_icons=true&locale=en&layout=compact" alt="pranjalwagh" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalwagh&" alt="utkarsh7588" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalwagh&show_icons=true&locale=en" alt="pranjalwagh" /></p>
 <br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalwagh&" alt="pranjalwagh" /></p>
+<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/ll_wagh_ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ll_wgah_ll" height="30" width="40" /></a>
