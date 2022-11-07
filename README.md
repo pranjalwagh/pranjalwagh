@@ -32,7 +32,11 @@
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
+<br/>
+  <div align="center" >
+   <img style="width: 30rem;"  src="https://github-readme-stats.vercel.app/api?username=pranjalwagh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="pravinargade18's Github Stats">
+   <a style="margin-left: 5px;" href="https://github.com/pravinargade18/github-readme-stats"><img    alt="Pranjal Wagh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalwagh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0,000000,130F40" /></a>
+   </div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalwagh&" alt="pranjalwagh" /></p>
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
